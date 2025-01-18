@@ -1,5 +1,6 @@
 # What is this?
 This is a Discord bot that only serves as giving back member roles when they leave and join.
+Pulled from my [codeberg](https://codeberg.org/snaily/Discord-bot).
 
 ### How does it work?
 First it will create a directory called "data" which will contain files (.db for members and .env for token).
