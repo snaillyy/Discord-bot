@@ -15,7 +15,7 @@ Linux/Unix:
 3. Move into Discord-bot, and create a virtual environment `cd Discord-bot && python -m venv .`
 4. `source bin/activate`
 5. `pip install -r requirements.txt`
-6. `mkdir src/data/token.env`
+6. `mkdir src/data && touch src/data/token.env`
 7. `echo TOKEN=YOUR_TOKEN_HERE > src/data/token.env` OR manually edit token.env after creating the file
 8. Make sure everything is working with `python3 src/bot.py`
 9. After everything is working as intended `./run.sh`
