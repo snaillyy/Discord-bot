@@ -32,8 +32,8 @@ Linux:
 
 ### Thank you
 [Zen](https://github.com/desultory) on github for helping me plan this out,\
-The developers and contributors of the python libraries in requirements.txt,
-Pycord.
+The developers and contributors of the python libraries in requirements.txt,\
+and Pycord.
 
 ### The heck is going on with your commits?
 I am still learning how everything works, please bare with me on that.
