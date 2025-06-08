@@ -7,7 +7,8 @@ This is a Discord bot that gives back roles to members who leave and join so tha
 - [ ] Command to review member information from the database.
 - [ ] Command for administrators to remove a record.
 - [ ] Encode binary roles in the db.
-- [ ] Command to temporarily disable recording
+- [ ] Command to temporarily disable recording.
+- [ ] Separate functions to separate files for better readability.
 
 ### Install/Setup
 ⚠️ REMEMBER NOT TO LEAK THE BOT'S TOKEN OTHERWISE THE ACCOUNT COULD BE COMPROMISED!
