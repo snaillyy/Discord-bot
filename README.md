@@ -2,14 +2,12 @@
 This is a Discord bot that gives back roles to members who leave and join so that they don't have to go through a manual verification process again.
 
 ### Features:
-[x] While online, actively record member name and roles.\
-[x] `/restore_roles` command.
-
-### TODO:
-[ ] Command to review member information from the database.\
-[ ] Command for administrators to remove a record.\
-[ ] Encode binary roles in the db.\
-[ ] Command to temporarily disable recording
+- [x] While online, actively record member name and roles.
+- [x] `/restore_roles` command.
+- [ ] Command to review member information from the database.
+- [ ] Command for administrators to remove a record.
+- [ ] Encode binary roles in the db.
+- [ ] Command to temporarily disable recording
 
 ### Install/Setup
 ⚠️ REMEMBER NOT TO LEAK THE BOT'S TOKEN OTHERWISE THE ACCOUNT COULD BE COMPROMISED!
