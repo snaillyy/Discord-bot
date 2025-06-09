@@ -12,9 +12,7 @@ This is a Discord bot that gives back roles to members who leave and join so tha
 
 ### Install/Setup
 ⚠️ REMEMBER NOT TO LEAK THE BOT'S TOKEN OTHERWISE THE ACCOUNT COULD BE COMPROMISED!
-
-Make a new file in data directory called token.env, then add the discord bot's token the same as this one `TOKEN=<token goes here>`.
-Check this [guide](https://www.geeksforgeeks.org/how-to-make-a-discord-bot/) for creating a discord application.
+Check this [guide](https://www.geeksforgeeks.org/how-to-make-a-discord-bot/) for a how-to on creating a discord application.
 
 Linux:
 1. `gh repo clone snaillyy/Discord-bot`
