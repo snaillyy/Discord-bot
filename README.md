@@ -17,11 +17,14 @@ Check this [guide](https://www.geeksforgeeks.org/how-to-make-a-discord-bot/) for
 Linux:
 1. `gh repo clone snaillyy/Discord-bot`
 2. `cd Discord-bot`
-3. `mkdir data`
+3. `python -m venv .` (use python3 if "command not found" occurs)
 4. `source bin/activate`
-5. `pip install -r requirements.txt`
-6. `chmod +x run.sh`
-7. `./run.sh`
+5. `mkdir data`
+6. `pip install -r requirements.txt`
+7. `chmod +x run.sh`
+8. `./run.sh`
+
+The small script will store all the logs in data/
 
 ### Dependencies
 * python3
